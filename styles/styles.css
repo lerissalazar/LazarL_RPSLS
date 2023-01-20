@@ -1,0 +1,22 @@
+.title {
+    color: pink;
+    text-align: center;
+}
+
+.modeBtn {
+    height: 250px;
+    width: 250px;
+}
+
+.playerTitle {
+    color: hotpink;
+    text-align: center;
+}
+
+.scoresBox {
+    display: flex;
+}
+
+.gameContainer {
+    text-align: center;
+}
